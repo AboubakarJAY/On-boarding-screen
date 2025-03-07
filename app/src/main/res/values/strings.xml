@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Onboading screen App</string>
+    <string name="page1">Managing project is more efficient</string>
+    <string name="page2">Stay Connected</string>
+    <string name="page3">Improve Productivity</string>
+    <string name="btn1">Next</string>
+    <string name="btn2">Get Started</string>
+</resources>
